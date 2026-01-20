@@ -80,7 +80,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 Harshavardhan - [GitHub](github.com/HARSHA-646)
 
-Project Link: [https://github.com/HARSHA-646/fs_final_project)
+Project Link: [https://jobportalharsha.netlify.app/login]
 "# fs_final_project" 
 "# job-portal" 
 "# job-portal" 
